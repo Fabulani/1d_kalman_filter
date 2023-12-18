@@ -8,4 +8,4 @@ __Overview Video__
 
 [![Elevator Position Estimation using 1D Kalman Filter](http://markdown-videos-api.jorgenkh.no/youtube/9G9vPwj8ZZw?width=720&height=480)](https://youtu.be/9G9vPwj8ZZw)
 
-> *Developed for the Robotic Perception class at Toyohashi University of Tecnology.*
+> *Developed for the Robotic Perception and Human-Robot Interaction 1 class at Toyohashi University of Tecnology, taught by Jun Miura sensei.*
